@@ -1,6 +1,6 @@
 # InfoTrack SEO Tracker
 
-This is a simple ASP.NET MVC web application that checks where a given URL ranks in Google search results for a specified keyword.  
+This is an ASP.NET MVC web application that checks where a given URL ranks in Google search results for a specified keyword.  
 Due to Google’s scraping restrictions, the app uses a saved mock HTML file to simulate the search results and demonstrate the core functionality.
 
 ---
