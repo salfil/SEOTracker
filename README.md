@@ -32,9 +32,10 @@ Due to Google’s scraping restrictions, the app uses a saved mock HTML file to 
 
 ### Steps
 
-1. **Clone the repository**
+1. **Clone the repository or download the zip file of the code and extract the zip folder**
 
-```bash```
+Download the code as a zip file and extract it. 
+
 git clone https://github.com/salfil/SEOTracker.git
 
 
@@ -47,12 +48,6 @@ Open InfoTrackSeoSolution.sln in Visual Studio.
 Right-click on InfoTrackSeo.Web project in Solution Explorer.
 
 Select Set as Startup Project.
-
-Confirm the file properties:
-
-Build Action: Content
-
-Copy to Output Directory: Copy if newer
 
 4. **Run the Application**
 
