@@ -1,0 +1,15 @@
+﻿@model InfoTrackSEOTracker.Models.SearchResultModel
+
+<h2>Results for "@Model.SearchTerm"</h2>
+<p>Target URL: <strong>@Model.TargetUrl</strong></p>
+
+@if (Model.Positions.Count == 0)
+{
+    <p><strong>URL not found in top 100 results.</strong></p>
+}
+else
+{
+    <p>Found at positions: <strong>@string.Join(", ", Model.Positions)</strong></p>
+}
+
+<a href="/">Search again</a>

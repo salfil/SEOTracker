@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|c:\\users\\salfil\\documents\\infotrackseotracker\\infotrackseotracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|solutionrelative:infotrackseotracker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|c:\\users\\salfil\\documents\\infotrackseotracker\\infotrackseotracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|solutionrelative:infotrackseotracker\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|c:\\users\\salfil\\documents\\infotrackseotracker\\infotrackseotracker\\models\\searchresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|solutionrelative:infotrackseotracker\\models\\searchresultmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|c:\\users\\salfil\\documents\\infotrackseotracker\\infotrackseotracker\\services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|solutionrelative:infotrackseotracker\\services\\googlesearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|c:\\users\\salfil\\documents\\infotrackseotracker\\infotrackseotracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|solutionrelative:infotrackseotracker\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|c:\\users\\salfil\\documents\\infotrackseotracker\\infotrackseotracker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|solutionrelative:infotrackseotracker\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|c:\\users\\salfil\\documents\\infotrackseotracker\\infotrackseotracker\\views\\home\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|solutionrelative:infotrackseotracker\\views\\home\\results.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|c:\\users\\salfil\\documents\\infotrackseotracker\\infotrackseotracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{1C5D3883-9F23-4D9A-9A53-D9C11E3EABC1}|InfoTrackSEOTracker\\InfoTrackSEOTracker.csproj|solutionrelative:infotrackseotracker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "InfoTrackSEOTracker\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "InfoTrackSEOTracker\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:19:08.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "InfoTrackSEOTracker\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "InfoTrackSEOTracker\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:19:06.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearchResultModel.cs",
+              "DocumentMoniker": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Models\\SearchResultModel.cs",
+              "RelativeDocumentMoniker": "InfoTrackSEOTracker\\Models\\SearchResultModel.cs",
+              "ToolTip": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Models\\SearchResultModel.cs",
+              "RelativeToolTip": "InfoTrackSEOTracker\\Models\\SearchResultModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T18:19:05.652Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "InfoTrackSEOTracker\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "InfoTrackSEOTracker\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T18:19:01.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Results.cshtml",
+              "DocumentMoniker": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Views\\Home\\Results.cshtml",
+              "RelativeDocumentMoniker": "InfoTrackSEOTracker\\Views\\Home\\Results.cshtml",
+              "ToolTip": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Views\\Home\\Results.cshtml",
+              "RelativeToolTip": "InfoTrackSEOTracker\\Views\\Home\\Results.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T18:19:00.019Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "InfoTrackSEOTracker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "InfoTrackSEOTracker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T18:14:18.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GoogleSearchService.cs",
+              "DocumentMoniker": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Services\\GoogleSearchService.cs",
+              "RelativeDocumentMoniker": "InfoTrackSEOTracker\\Services\\GoogleSearchService.cs",
+              "ToolTip": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Services\\GoogleSearchService.cs",
+              "RelativeToolTip": "InfoTrackSEOTracker\\Services\\GoogleSearchService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwCoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-14T17:00:39.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "InfoTrackSEOTracker\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Salfil\\Documents\\InfoTrackSEOTracker\\InfoTrackSEOTracker\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "InfoTrackSEOTracker\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-06-14T17:06:37.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

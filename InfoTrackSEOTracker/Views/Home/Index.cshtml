@@ -1,0 +1,24 @@
+﻿@model InfoTrackSEOTracker.Models.SearchInputModel
+
+@{
+    ViewBag.Title = "SEO Tracker";
+}
+
+<h2>Check SEO Ranking</h2>
+
+@using (Html.BeginForm("Results", "Home", FormMethod.Post))
+{
+    <label>Search Term:</label>
+    <br />
+    @Html.TextBoxFor(m => m.SearchTerm)
+    <br />
+    <br />
+
+    <label>Target URL (e.g., www.infotrack.co.uk):</label>
+    <br />
+    @Html.TextBoxFor(m => m.TargetUrl)
+    <br />
+    <br />
+
+    <button type="submit">Check</button>
+}
