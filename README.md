@@ -34,10 +34,11 @@ Due to Google’s scraping restrictions, the app uses a saved mock HTML file to 
 
 1. **Clone the repository**
 
-```bash
+```bash```
 git clone https://github.com/salfil/SEOTracker.git
 
-2.** ** Open the solution ****
+
+2. **Open the solution **
 
 Open InfoTrackSeoSolution.sln in Visual Studio.
 
